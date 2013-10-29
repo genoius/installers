@@ -104,6 +104,7 @@ class InstallerTest extends TestCase
             array('drupal-module', true),
             array('fuel-module', true),
             array('fuel-package', true),
+            array('genoius-uipack', true),
             array('joomla-library', true),
             array('kohana-module', true),
             array('laravel-library', true),

@@ -21,6 +21,7 @@ class Installer extends LibraryInstaller
         'croogo'       => 'CroogoInstaller',
         'drupal'       => 'DrupalInstaller',
         'fuel'         => 'FuelInstaller',
+        'genoius'      => 'GenoiusInstaller',
         'joomla'       => 'JoomlaInstaller',
         'kohana'       => 'KohanaInstaller',
         'laravel'      => 'LaravelInstaller',
